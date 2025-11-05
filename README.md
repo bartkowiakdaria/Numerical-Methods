@@ -14,16 +14,11 @@ This project focuses on **approximate computation of definite integrals** using:
 
 It demonstrates how function approximation can improve the accuracy of numerical integration.
 
-📁 Folder: `chebyshev_integration_matlab`
-
 ---
 
 ## Project 2: Solving Linear Systems Using the BSOR Method
 
 This project implements the **Backward Successive Over-Relaxation (BSOR)** iterative method  
 for solving systems of linear equations.  
-It compares convergence behavior with classical methods such as **Gauss–Seidel**.
-
-📁 Folder: `bsor_solver_matlab`
 
 ---

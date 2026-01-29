@@ -1,4 +1,4 @@
-# 🧮 Numerical Methods Projects in MATLAB
+# Numerical Methods Projects in MATLAB
 
 This repository contains two projects developed as part of a **Numerical Methods** course using **MATLAB**.  
 Each project demonstrates the implementation of a selected numerical algorithm with analysis and visualizations.  
